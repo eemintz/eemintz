@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eemintz - Software Developer
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interesting in Machine Learning
 - 🌱 I’m currently learning Data Mining MSc program  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
