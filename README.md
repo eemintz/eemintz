@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @eemintz - Software Developer
 - 👀 I’m interesting in Machine Learning
-- 🌱 I have MSc degree in Data Mining  
+- 🌱 I like Python & C++ languages
+- 🥇 I have BSc degree in Applied Physics
+- 🥈 I have MSc degree in Data Mining  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
